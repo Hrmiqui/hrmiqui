@@ -2,7 +2,6 @@
 ![image](https://github.com/Hrmiqui/hrmiqui/assets/133371728/511e7ff2-2437-4bef-bc1e-bd71dd0c37ab)
 
 
-
 <!--
 **Hrmiqui/hrmiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
