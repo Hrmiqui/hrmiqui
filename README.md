@@ -1,4 +1,4 @@
-### Hi there 👋im hassan
+### Hi there  Im Hassan
 ![image](https://github.com/Hrmiqui/hrmiqui/assets/133371728/cd98b016-0688-4a07-bf71-04689c899e99)
 
 <!--
